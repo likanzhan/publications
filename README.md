@@ -1,1 +1,1 @@
-# A collection of my publications
+# Likan Zhan's publications
