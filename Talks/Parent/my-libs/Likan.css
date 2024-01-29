@@ -1,0 +1,53 @@
+/* regular slide by Likan Zhan 20190827*/
+.remark-slide-content {
+  color: white;
+  background-color: #CB5031;
+  font-size: 170%;
+  line-height: 1.5em;
+}
+
+.remark-slide-content h2 {
+  text-align: center;
+}
+
+/* Format of the title slide, Likan 20190827 */
+.title-slide {
+/*  text-shadow: none; */
+  background-color: #243340;
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+.title-slide h1 {
+  color: #CB5031; /* F7F8FA */
+  line-height: 1.5em;
+}
+.title-slide h2, .title-slide h3 {
+  color: #CB5031;
+  font-size: 150%;
+  line-height: 1.5em;
+}
+
+/* Format of header logo, Likan 20190827 */
+img.header-logo {
+  width:  12%;
+  float: center;
+  position: absolute;
+  left: 0.05em;
+  bottom: 0.05em;
+}
+
+/* Slide Margin by Likan Zhan, 20190829 
+.remark-slide-content {
+  padding-top:    0em;
+  padding-left:   1em;
+  padding-right:  1em;
+  padding-bottom: 0em;
+}
+*/
+
+img.pic-normal {
+  vertical-align: middle;
+}

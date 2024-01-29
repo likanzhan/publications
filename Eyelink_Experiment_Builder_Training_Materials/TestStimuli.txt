@@ -1,0 +1,2 @@
+Split	Sentential_Connective	Mentioned_Object	Agent_Mood	Spatial_Order	Temporal_Order	Top_Left	Top_Right	Bottom_Left	Bottom_Right	Familiarize_1_Object_Image	Familiarize_1_Object_Audio	Familiarize_1_Object_Audio_Length	Familiarize_2_Object_Image	Familiarize_2_Object_Audio	Familiarize_2_Object_Audio_Length	Test_Image	Test_Audio
+1	Because	Different	Happy	CS_DD_SD_SS	Different	CS	DD	SD	SS	YaGao.png	199.wav	1124	ChouZhi.png	128.wav	1372	01.png	01BcDH.wav

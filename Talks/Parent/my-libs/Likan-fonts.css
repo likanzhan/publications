@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Slab);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
+
+@font-face {
+    font-family: "FF-Nexus-Serif";
+    font-stretch: normal;
+    font-weight: bold;
+    font-style: italic;
+    src: url("fonts/FF-Nexus-Serif/FF-Nexus-Serif-Bold-Italic") format('otf');
+}
+
+@font-face {
+    font-family: "FF-Nexus-Serif";
+    font-stretch: normal;
+    font-weight: bold;
+    font-style: normal;
+    src: url("fonts/FF-Nexus-Serif/FF-Nexus-Serif-Bold") format('otf');
+}
+
+@font-face {
+    font-family: "FF-Nexus-Serif";
+    font-stretch: normal;
+    font-weight: normal;
+    font-style: italic;
+    src: url("/fonts/FF-Nexus-Serif/FF-Nexus-Serif-Italic") format('otf');
+}
+
+@font-face {
+    font-family: "FF-Nexus-Serif";
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: normal;
+    src: url("my-libs/fonts/FF-Nexus-Serif/FF-Nexus-Serif-Regular") format('otf');
+}
+
+body { font-family:  "Josefin Slab", "FF-Nexus-Serif", Helvetica, 'Droid Serif', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif; }
+
+h1, h2, h3 {
+  font-family: Optima, 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+
+.remark-code, .remark-inline-code { font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace; }
